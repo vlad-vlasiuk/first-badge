@@ -1,0 +1,15 @@
+{
+  "name": "haskell-curry-registration",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
