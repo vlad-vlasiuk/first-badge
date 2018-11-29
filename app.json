@@ -7,9 +7,8 @@
   "formation": {
   },
   "addons": [
-
+    "cleardb:ignite"
   ],
   "buildpacks": [
-
   ]
 }
